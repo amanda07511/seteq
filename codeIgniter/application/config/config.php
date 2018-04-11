@@ -23,7 +23,7 @@
 |
 */
 //lo que se escribe es la url del proyecto
-$config['base_url'] = 'https://seteq.herokuapp.com//';
+$config['base_url'] = 'http://localhost/SETEQ/codeIgniter/';
 
 /*
 |--------------------------------------------------------------------------
